@@ -10,5 +10,6 @@ public class Happy {
 		System.out.println("分支添22");
 		System.out.println("分支添33");
 		System.out.println("left.....");
+		System.out.println("hot_fix.....");
 	}
 }
