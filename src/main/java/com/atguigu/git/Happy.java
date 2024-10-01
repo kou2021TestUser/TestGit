@@ -3,14 +3,15 @@ package com.atguigu.git;
 public class Happy {
 	public static void main(String[] args) {
 		System.out.println("Test.....!!");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("Ö÷ÏßÌí¼Ó");
-		System.out.println("·ÖÖ§Ìí¼Ó");
-		System.out.println("·ÖÖ§Ìí11");
-		System.out.println("·ÖÖ§Ìí22");
-		System.out.println("·ÖÖ§Ìí33");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö§");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½Ö§ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½Ö§ï¿½ï¿½11");
+		System.out.println("ï¿½ï¿½Ö§ï¿½ï¿½22");
+		System.out.println("ï¿½ï¿½Ö§ï¿½ï¿½33");
 		System.out.println("right....");
 		System.out.println("left.....");
 		System.out.println("hot_fix.....");
+		System.out.println("æˆ‘çš„å¯¹åº”.....");
 	}
 }
